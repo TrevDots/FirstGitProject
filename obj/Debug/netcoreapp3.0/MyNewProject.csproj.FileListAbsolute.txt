@@ -1,0 +1,11 @@
+C:\Users\crush\Documents\Projects\MyNewProject\bin\Debug\netcoreapp3.0\MyNewProject.exe
+C:\Users\crush\Documents\Projects\MyNewProject\bin\Debug\netcoreapp3.0\MyNewProject.deps.json
+C:\Users\crush\Documents\Projects\MyNewProject\bin\Debug\netcoreapp3.0\MyNewProject.runtimeconfig.json
+C:\Users\crush\Documents\Projects\MyNewProject\bin\Debug\netcoreapp3.0\MyNewProject.runtimeconfig.dev.json
+C:\Users\crush\Documents\Projects\MyNewProject\bin\Debug\netcoreapp3.0\MyNewProject.dll
+C:\Users\crush\Documents\Projects\MyNewProject\bin\Debug\netcoreapp3.0\MyNewProject.pdb
+C:\Users\crush\Documents\Projects\MyNewProject\obj\Debug\netcoreapp3.0\MyNewProject.csprojAssemblyReference.cache
+C:\Users\crush\Documents\Projects\MyNewProject\obj\Debug\netcoreapp3.0\MyNewProject.AssemblyInfoInputs.cache
+C:\Users\crush\Documents\Projects\MyNewProject\obj\Debug\netcoreapp3.0\MyNewProject.AssemblyInfo.cs
+C:\Users\crush\Documents\Projects\MyNewProject\obj\Debug\netcoreapp3.0\MyNewProject.dll
+C:\Users\crush\Documents\Projects\MyNewProject\obj\Debug\netcoreapp3.0\MyNewProject.pdb
